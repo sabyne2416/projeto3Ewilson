@@ -16,5 +16,5 @@ font-family: 'Chacra Petch', sans-serif;
     display: flex;
     flex-direction: column;
     justify-content: center ;
-    text-align: center;
+    align-items: center;
 }
