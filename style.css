@@ -34,4 +34,7 @@ font-family: 'Chacra Petch', sans-serif;
 }
 .botao{
     font-family: 'Chacra Perch', sans-serif ;
+    display: flex;
+    justify-content: center;
+    padding:1em ;
 }
