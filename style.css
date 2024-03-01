@@ -4,6 +4,8 @@
 :root{
     --cor-de-fundo: #6cf8f8;
     --cor-de-texto: #000000;
+    --cor-de-texto2: #2f00ff;
+
 
 }
 body{
@@ -26,4 +28,7 @@ font-family: 'Chacra Petch', sans-serif;
      text-align: left;
      width: 100%;
      font-size: 32px;
+}
+.titulo-principal span{
+    color: var(--cor-de-texto2);
 }
