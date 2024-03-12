@@ -57,7 +57,7 @@ font-family: 'Chacra Petch', sans-serif;
 }
 @media screen and (min-width: 768px) {
     .botoes{
-        display:flex    
+        display:flex;    
     }
     .botao:first-child{
         border-radius: 40px 0 0 0; 
