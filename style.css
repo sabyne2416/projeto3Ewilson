@@ -59,10 +59,10 @@ font-family: 'Chacra Petch', sans-serif;
     .botoes{
         display:flex    
     }
-    .botao: :first-child{
+    .botao:first-child{
         border-radius: 40px 0 0 0; 
     }
-    .botao: :last-child{
+    .botao:last-child{
         border-radius: 0 40px 0 0 ;
     }
 }
