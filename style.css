@@ -6,6 +6,7 @@
     --cor-de-texto: #000000;
     --cor-de-texto2: #71d4f1;
     --cor-botao-inativo:#9de7e7;
+    --cor-botao-ativo:#9ad1d1;
 
 
 }
@@ -54,6 +55,10 @@ font-family: 'Chacra Petch', sans-serif;
 .botoes{
     display: block;
 
+}
+.ativo{
+    background-color: var(--cor-botao-ativo);
+    border-bottom: 4px solid var(--cor-botao-inativo);
 }
 @media screen and (min-width: 768px) {
     .botoes{
