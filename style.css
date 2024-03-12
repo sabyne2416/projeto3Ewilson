@@ -44,6 +44,6 @@ font-family: 'Chacra Petch', sans-serif;
     width: 100%;
     border-bottom: 4px solid var(--cor-de-texto2);
     border-left: 2px solid var(--cor-de-texto2);
-    border-right: 2px solid var(--cor-de-texto2) ;
+    border-right: 2px solid var(--cor-de-texto2);
     border-top: none;
 }
