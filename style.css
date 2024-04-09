@@ -60,6 +60,27 @@ font-family: 'Chacra Petch', sans-serif;
     background-color: var(--cor-botao-ativo);
     border-bottom: 4px solid var(--cor-botao-inativo);
 }
+.aba-textos{
+    background-color: var(--cor-botao-inativo);
+    padding: 40px;
+    border-radius: 0 0 40px 40px;
+
+}
+.aba-conteudo.ativo{
+    display: block;
+}
+.aba-conteudo{
+    display: none;
+}
+.aba-conteudo-titulo-principal{
+    font-size: 28px;
+    text-align: center;
+}
+.aba-conteudo-titulo-secundario{
+    text-align: center;
+    color: var(--cor-de-texto2);
+    text-transform: uppercase;
+}
 @media screen and (min-width: 768px) {
     .botoes{
         display:flex;    
