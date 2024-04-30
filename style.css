@@ -82,6 +82,10 @@ font-family: 'Chacra Petch', sans-serif;
     color: var(--cor-de-texto);
     text-transform: uppercase;
 }
+.contador{
+    text-align: center;
+    font-size: 20px;
+}
 @media screen and (min-width: 768px) {
     .botoes{
         display:flex;    
