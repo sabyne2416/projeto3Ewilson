@@ -22,9 +22,7 @@ const tempoObjetivo4 = new Date ("2024-11-10T23:59:59");
 
 const tempos = {
     tempoObjetivo1
-    tempoObjetivo2
-    tempoObjetivo3
-    tempoObjetivo4
+    
 
 }
 
